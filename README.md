@@ -4,5 +4,4 @@
 
 | Challenge | Related files |
 | --- | --- |
-| [1](http://cryptopals.com/sets/1/challenges/1) | `./util/hex2base64{,_test}.go` |
-| [2](http://cryptopals.com/sets/1/challenges/2) | `./util/fixedxor{,_test}.go` |
+| [1](http://cryptopals.com/sets/1/challenges/1) | [Files](./set1/challenge1) |
