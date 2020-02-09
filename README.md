@@ -1,5 +1,7 @@
 ## [Cryptopals](http://cryptopals.com/) solutions
 
+![Build](https://github.com/sarslanhan/cryptopals/workflows/Build/badge.svg)
+
 ### Solutions
 
 | Challenge | Related files |
